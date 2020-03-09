@@ -1,5 +1,5 @@
 def my_collect(array)
-  array[] 
+  array[]
   do |x|
     counter +=1
   end
