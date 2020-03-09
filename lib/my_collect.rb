@@ -6,4 +6,3 @@ while i < language.length
   i+=1
   end
 end
-
