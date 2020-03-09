@@ -6,5 +6,5 @@ while i < language.length
   yield (language[i])
   i+=1
   end
-  language
+  collection
 end
