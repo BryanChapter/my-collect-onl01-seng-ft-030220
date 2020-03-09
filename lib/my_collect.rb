@@ -1,6 +1,7 @@
 def my_collect(language)
-  language=[]
-while language < 0 do |x|
+  i = 0
+while language[i]
+  yield(language[i])
     counter +=1
   end
 end
