@@ -4,4 +4,3 @@ while i < language.length
   yield(language[i])
   end
 end
-
