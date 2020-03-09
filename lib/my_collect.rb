@@ -1,6 +1,6 @@
 def my_collect(language)
   i = 0
-  language = []
+  collection = []
 while i < language.length
   {|lang| lang.upcase}
   yield (language[i])
