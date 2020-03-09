@@ -1,7 +1,7 @@
 def my_collect(language)
   i = 0
-while language[i]
-  yield(language[i])
+while i < language.length
+  yield(language.first [i])
     counter +=1
   end
 end
